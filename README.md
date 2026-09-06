@@ -8,13 +8,12 @@ This laboratory showcases how I was able to identify hosts within an authorised 
 
 ## Tools and Resources Used
 The tools and resources used during this lab are:
-o	Kali LinuxLinux operating system (Kali Linux)
-o	Metasploitable 2
-o	nmap
-o	whatweb
-o	Curl
-o	Terminal access
-
+o	Kali LinuxLinux operating system (Kali Linux)\
+o	Metasploitable 2\
+o	nmap\
+o	whatweb\
+o	Curl\
+o	Terminal access\
 
 ## Conclusion 
 At the end of the lab I was able to differentiate between host discovery, port scanning, service/version detection, operating-system detection, aggressive scanning, full-port scanning, UDP reconnaissance, NSE enumeration and web fingerprinting.
