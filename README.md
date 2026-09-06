@@ -13,7 +13,7 @@ The tools and resources used during this lab are:
     o	nmap\
     o	whatweb\
     o	Curl\
-    o	Terminal access\
+    o	Terminal access
     
 ## Conclusion 
 At the end of the lab I was able to differentiate between host discovery, port scanning, service/version detection, operating-system detection, aggressive scanning, full-port scanning, UDP reconnaissance, NSE enumeration and web fingerprinting.
