@@ -17,3 +17,5 @@ The tools and resources used during this lab are:
     
 ## Conclusion 
 At the end of the lab I was able to differentiate between host discovery, port scanning, service/version detection, operating-system detection, aggressive scanning, full-port scanning, UDP reconnaissance, NSE enumeration and web fingerprinting.
+
+Included in this repo is a PDF file of the completed Lab.
